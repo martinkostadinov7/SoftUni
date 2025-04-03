@@ -1,10 +1,10 @@
 ﻿namespace GoodDay
 {
-    internal class Program
+    internal class GoodDay
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Good Day");
         }
     }
 }
