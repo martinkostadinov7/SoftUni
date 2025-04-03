@@ -1,6 +1,6 @@
 ﻿namespace WriteMyName
 {
-    internal class Program
+    internal class WriteMyName
     {
         static void Main(string[] args)
         {

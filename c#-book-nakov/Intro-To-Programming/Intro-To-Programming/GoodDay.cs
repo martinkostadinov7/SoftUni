@@ -1,6 +1,6 @@
 ﻿namespace Intro_To_Programming
 {
-    internal class Program
+    internal class GoodDay
     {
         static void Main(string[] args)
         {
