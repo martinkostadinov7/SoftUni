@@ -1,10 +1,10 @@
-﻿namespace Intro_To_Programming
+﻿namespace GoodDay
 {
     internal class GoodDay
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Good Day!");
+            Console.WriteLine("Good Day");
         }
     }
 }
