@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPointInsideCircle", "IsPo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPointInsideCirlceAndRectangle", "IsPointInsideCirlceAndRectangle\IsPointInsideCirlceAndRectangle.csproj", "{369CA355-EDBE-4E0A-83F6-E24D8A271E01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigitNumber", "FourDigitNumber\FourDigitNumber.csproj", "{44532216-E8D0-4D95-AD26-3DED2E7E60AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{369CA355-EDBE-4E0A-83F6-E24D8A271E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369CA355-EDBE-4E0A-83F6-E24D8A271E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369CA355-EDBE-4E0A-83F6-E24D8A271E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
