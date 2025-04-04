@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThirdBit1", "IsThirdBit1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidArea", "TrapezoidArea\TrapezoidArea.csproj", "{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{24930EF5-2A20-4D06-A286-B06EE0A5D28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravity", "MoonGravity\MoonGravity.csproj", "{4DBF68C1-DFAE-432C-A117-425321418ACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24930EF5-2A20-4D06-A286-B06EE0A5D28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24930EF5-2A20-4D06-A286-B06EE0A5D28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24930EF5-2A20-4D06-A286-B06EE0A5D28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24930EF5-2A20-4D06-A286-B06EE0A5D28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBF68C1-DFAE-432C-A117-425321418ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBF68C1-DFAE-432C-A117-425321418ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBF68C1-DFAE-432C-A117-425321418ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBF68C1-DFAE-432C-A117-425321418ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
