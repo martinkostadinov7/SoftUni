@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionFiveSeven", "Divisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThirdNumber7", "IsThirdNumber7\IsThirdNumber7.csproj", "{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThirdBit1", "IsThirdBit1\IsThirdBit1.csproj", "{F8F0E61F-C109-4FEA-845D-62B7B879347E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidArea", "TrapezoidArea\TrapezoidArea.csproj", "{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F0E61F-C109-4FEA-845D-62B7B879347E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F0E61F-C109-4FEA-845D-62B7B879347E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F0E61F-C109-4FEA-845D-62B7B879347E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F0E61F-C109-4FEA-845D-62B7B879347E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57412E13-F068-4A60-AAA3-FAE4FF52FCAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
