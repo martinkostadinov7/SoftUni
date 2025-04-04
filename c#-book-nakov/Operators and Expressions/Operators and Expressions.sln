@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd", "EvenOrOdd\Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionFiveSeven", "DivisionFiveSeven\DivisionFiveSeven.csproj", "{AF7F5C51-8199-4F40-A7C9-CA6711120A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThirdNumber7", "IsThirdNumber7\IsThirdNumber7.csproj", "{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AF7F5C51-8199-4F40-A7C9-CA6711120A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7F5C51-8199-4F40-A7C9-CA6711120A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7F5C51-8199-4F40-A7C9-CA6711120A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7503511C-6D3E-4F1B-89B3-EFA2E3A0819F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
