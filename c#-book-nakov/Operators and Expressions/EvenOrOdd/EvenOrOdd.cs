@@ -1,6 +1,6 @@
 ﻿namespace EvenOrOdd
 {
-    internal class Program
+    internal class EvenOrOdd
     {
         static void Main(string[] args)
         {
