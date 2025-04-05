@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPointInsideCirlceAndRecta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigitNumber", "FourDigitNumber\FourDigitNumber.csproj", "{44532216-E8D0-4D95-AD26-3DED2E7E60AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDigitBit", "PDigitBit\PDigitBit.csproj", "{8578A89A-80C6-4A35-8217-E899B2FF21BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsBitP1", "IsBitP1\IsBitP1.csproj", "{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44532216-E8D0-4D95-AD26-3DED2E7E60AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8578A89A-80C6-4A35-8217-E899B2FF21BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8578A89A-80C6-4A35-8217-E899B2FF21BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8578A89A-80C6-4A35-8217-E899B2FF21BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8578A89A-80C6-4A35-8217-E899B2FF21BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
