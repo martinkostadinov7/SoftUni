@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDigitBit", "PDigitBit\PDig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsBitP1", "IsBitP1\IsBitP1.csproj", "{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangePBit", "ChangePBit\ChangePBit.csproj", "{6045BAD4-BE6F-43FA-A941-5DD047A89359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsNumPrime", "IsNumPrime\IsNumPrime.csproj", "{828429B9-B3F1-4DC2-8804-B98BDBA694A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D7A8699-EB1D-4BA1-98A0-2D66CF158E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6045BAD4-BE6F-43FA-A941-5DD047A89359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6045BAD4-BE6F-43FA-A941-5DD047A89359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6045BAD4-BE6F-43FA-A941-5DD047A89359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6045BAD4-BE6F-43FA-A941-5DD047A89359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
