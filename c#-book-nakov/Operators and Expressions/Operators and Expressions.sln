@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangePBit", "ChangePBit\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsNumPrime", "IsNumPrime\IsNumPrime.csproj", "{828429B9-B3F1-4DC2-8804-B98BDBA694A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapThirdFifthBit", "SwapThirdFifthBit\SwapThirdFifthBit.csproj", "{019B50FA-AA1A-44B2-9C36-D7F75E436C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapBits", "SwapBits\SwapBits.csproj", "{07938621-645C-4130-94D5-A5F95B4CB82C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{828429B9-B3F1-4DC2-8804-B98BDBA694A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019B50FA-AA1A-44B2-9C36-D7F75E436C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019B50FA-AA1A-44B2-9C36-D7F75E436C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019B50FA-AA1A-44B2-9C36-D7F75E436C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019B50FA-AA1A-44B2-9C36-D7F75E436C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07938621-645C-4130-94D5-A5F95B4CB82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07938621-645C-4130-94D5-A5F95B4CB82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07938621-645C-4130-94D5-A5F95B4CB82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07938621-645C-4130-94D5-A5F95B4CB82C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
