@@ -1,6 +1,6 @@
 ﻿namespace YardGreening
 {
-    internal class Program
+    internal class YardGreening
     {
         static void Main(string[] args)
         {
@@ -10,6 +10,7 @@
             double discount = totalCost * 0.18;
             double finalCost = totalCost - discount;
             Console.WriteLine($"The final price is: {finalCost} lv.");
+            Console.WriteLine($"The discount is: {discount} lv.");
         }
     }
 }
