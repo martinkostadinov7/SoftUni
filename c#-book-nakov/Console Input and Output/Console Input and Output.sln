@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyInfo", "CompanyInfo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTableNumbers", "VirtualTableNumbers\VirtualTableNumbers.csproj", "{17A0C89F-D446-4637-AD09-DFAE122E1575}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersDivisibleBy5", "NumbersDivisibleBy5\NumbersDivisibleBy5.csproj", "{4F769A6F-9B23-41DB-B7DD-817FBACABA94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingNumbersWithoutIfs", "ComparingNumbersWithoutIfs\ComparingNumbersWithoutIfs.csproj", "{B5A27C48-CB1F-4171-8C3D-D08DEB93DF6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{17A0C89F-D446-4637-AD09-DFAE122E1575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A0C89F-D446-4637-AD09-DFAE122E1575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A0C89F-D446-4637-AD09-DFAE122E1575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F769A6F-9B23-41DB-B7DD-817FBACABA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F769A6F-9B23-41DB-B7DD-817FBACABA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F769A6F-9B23-41DB-B7DD-817FBACABA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F769A6F-9B23-41DB-B7DD-817FBACABA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A27C48-CB1F-4171-8C3D-D08DEB93DF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A27C48-CB1F-4171-8C3D-D08DEB93DF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A27C48-CB1F-4171-8C3D-D08DEB93DF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A27C48-CB1F-4171-8C3D-D08DEB93DF6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
