@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellentResult", "Excellen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterNumber", "GreaterNumber\GreaterNumber.csproj", "{A19B1DBA-1038-4F6B-8A0D-068050DD6726}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenorOdd", "EvenorOdd\EvenorOdd.csproj", "{0EF6C362-11F0-4247-A9E5-EB5FE3B32329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{BAEFF183-893F-49E0-BB22-D7CB3CC73417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A19B1DBA-1038-4F6B-8A0D-068050DD6726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A19B1DBA-1038-4F6B-8A0D-068050DD6726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A19B1DBA-1038-4F6B-8A0D-068050DD6726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF6C362-11F0-4247-A9E5-EB5FE3B32329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF6C362-11F0-4247-A9E5-EB5FE3B32329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF6C362-11F0-4247-A9E5-EB5FE3B32329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF6C362-11F0-4247-A9E5-EB5FE3B32329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
