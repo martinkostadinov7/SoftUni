@@ -13,8 +13,6 @@
 
             decimal litersRequired = volume * (1 - (percent / 100));
             Console.WriteLine(litersRequired);
-
-
         }
     }
 }
