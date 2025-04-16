@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellentResult", "ExcellentResult\ExcellentResult.csproj", "{E5D43C22-5CCB-487D-A85E-5192F73D5FB5}"
 EndProject
@@ -10,6 +10,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenorOdd", "EvenorOdd\EvenorOdd.csproj", "{0EF6C362-11F0-4247-A9E5-EB5FE3B32329}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{BAEFF183-893F-49E0-BB22-D7CB3CC73417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number100to500", "Number100to500\Number100to500.csproj", "{F7E47657-904B-48A5-BD1D-2B5F66775914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{982A35B2-1396-498B-825F-250A8F7D2A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfFigures", "AreaOfFigures\AreaOfFigures.csproj", "{E8746BC6-E4CC-44F8-BACF-6C75B4B5CE21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAEFF183-893F-49E0-BB22-D7CB3CC73417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E47657-904B-48A5-BD1D-2B5F66775914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E47657-904B-48A5-BD1D-2B5F66775914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E47657-904B-48A5-BD1D-2B5F66775914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E47657-904B-48A5-BD1D-2B5F66775914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982A35B2-1396-498B-825F-250A8F7D2A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982A35B2-1396-498B-825F-250A8F7D2A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982A35B2-1396-498B-825F-250A8F7D2A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982A35B2-1396-498B-825F-250A8F7D2A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8746BC6-E4CC-44F8-BACF-6C75B4B5CE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8746BC6-E4CC-44F8-BACF-6C75B4B5CE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8746BC6-E4CC-44F8-BACF-6C75B4B5CE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8746BC6-E4CC-44F8-BACF-6C75B4B5CE21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
