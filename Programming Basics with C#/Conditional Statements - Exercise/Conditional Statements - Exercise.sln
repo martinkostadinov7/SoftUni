@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSeconds", "SumSeconds\SumSeconds.csproj", "{CCCFA3D6-C1F0-45A7-8E0D-5D5A6B6639AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\BonusScore.csproj", "{F84752A1-EB31-4C98-9C34-0AFB537FBF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimePlusMinutes", "TimePlusMinutes\TimePlusMinutes.csproj", "{FB544B49-CDBA-4744-9BC0-05DE785BE157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.csproj", "{6669039C-B5CA-40D7-AE7B-A712FDC0FD6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F84752A1-EB31-4C98-9C34-0AFB537FBF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F84752A1-EB31-4C98-9C34-0AFB537FBF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F84752A1-EB31-4C98-9C34-0AFB537FBF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB544B49-CDBA-4744-9BC0-05DE785BE157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB544B49-CDBA-4744-9BC0-05DE785BE157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB544B49-CDBA-4744-9BC0-05DE785BE157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB544B49-CDBA-4744-9BC0-05DE785BE157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6669039C-B5CA-40D7-AE7B-A712FDC0FD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6669039C-B5CA-40D7-AE7B-A712FDC0FD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6669039C-B5CA-40D7-AE7B-A712FDC0FD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6669039C-B5CA-40D7-AE7B-A712FDC0FD6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
